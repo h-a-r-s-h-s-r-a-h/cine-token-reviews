@@ -43,7 +43,7 @@ A decentralized movie review platform built on Solana blockchain where users can
 1. Clone the repository:
 ```bash
 git clone https://github.com/h-a-r-s-h-s-r-a-h/cine-token-reviews.git
-cd anchor-movie-review-program
+cd cine-token-reviews
 ```
 
 2. Install dependencies:
